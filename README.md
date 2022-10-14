@@ -1,8 +1,12 @@
 # 👋 Hi, nice to see you
 
+Sorry, this README is kept as minimal as possible. I don't like to waste time. You can reach me at edoardo.longo@polimi.it
+
+### Quick Intro
+
 I'm Edoardo, a passionate full stack web developer and IoT researcher. I take great care of the code quality of the things I build.
 
-## Things I code with
+### Things I code with (and I found a badge)
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
@@ -21,10 +25,8 @@ I'm Edoardo, a passionate full stack web developer and IoT researcher. I take gr
 
 </p>
 
-- 👀 I’m interested in IoT, MQTT, Trail Running, Development
-- 🌱 I’m currently learning Erlang
-- 📫 How to reach me edoardo.longo@polimi.it
-
+- 👀 I’m interested in IoT, MQTT, trail running, software development
+- 🌱 I’m currently learning __Erlang___
 <!---
 edoardesd/edoardesd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
