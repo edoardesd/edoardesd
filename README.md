@@ -1,6 +1,6 @@
 # 👋 Hi, nice to see you
 
-Sorry, this README is kept as minimal as possible. I don't like to waste time. You can reach me at edoardo.longo@polimi.it
+Sorry, this README is kept as minimal as possible. You can reach me at edoardo.longo@polimi.it
 
 ### Quick Intro
 
